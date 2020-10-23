@@ -1,0 +1,38 @@
+p {
+    background-color: bisque;
+}
+li {
+    background-color: cyan;
+    margin-bottom: 3px;
+}
+.xxx {
+    color: darkred;
+}
+.yyy {
+    font-size: 25px;
+}
+#target{
+    font-weight: bolder;
+}
+p {
+    /* width: 400px;
+     height: 100px; */
+    overflow: scroll;
+    /*display: inline;*/
+}
+span {
+    /*color: blue;
+    font-size: 40px;
+    display: block;*/
+}
+.xxx{
+    /*margin: 10px 20px 30px; composite pattern*/
+    /*margin-block-start: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    /*внутреннее отступление: padding*/
+    padding: 50px;
+    box-sizing: border-box;
+    border: 10px solid #ff1493;
+}
